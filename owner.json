@@ -1,0 +1,132 @@
+[
+    {
+        "id": 101,
+        "name": "John Doe",
+        "age": 35,
+        "isVerified": true,
+        "profileImageUrl": "https://example.com/john_doe.jpg",
+        "cars": [
+            {
+                "id": 1,
+                "name": "Toyota Camry"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Alice Smith",
+        "age": 28,
+        "isVerified": true,
+        "profileImageUrl": "https://example.com/alice_smith.jpg",
+        "cars": [
+            {
+                "id": 2,
+                "name": "Honda Civic"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Michael Johnson",
+        "age": 40,
+        "isVerified": false,
+        "profileImageUrl": "https://example.com/michael_johnson.jpg",
+        "cars": [
+            {
+                "id": 3,
+                "name": "Ford Mustang"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Emily Brown",
+        "age": 32,
+        "isVerified": true,
+        "profileImageUrl": "https://example.com/emily_brown.jpg",
+        "cars": [
+            {
+                "id": 4,
+                "name": "Tesla Model 3"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "David Wilson",
+        "age": 45,
+        "isVerified": true,
+        "profileImageUrl": "https://example.com/david_wilson.jpg",
+        "cars": [
+            {
+                "id": 5,
+                "name": "BMW 3 Series"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Sophia Lee",
+        "age": 38,
+        "isVerified": true,
+        "profileImageUrl": "https://example.com/sophia_lee.jpg",
+        "cars": [
+            {
+                "id": 6,
+                "name": "Mercedes-Benz E-Class"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Oliver Miller",
+        "age": 41,
+        "isVerified": false,
+        "profileImageUrl": "https://example.com/oliver_miller.jpg",
+        "cars": [
+            {
+                "id": 7,
+                "name": "Audi Q5"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Emma Johnson",
+        "age": 36,
+        "isVerified": true,
+        "profileImageUrl": "https://example.com/emma_johnson.jpg",
+        "cars": [
+            {
+                "id": 8,
+                "name": "Toyota Prius"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Noah Taylor",
+        "age": 39,
+        "isVerified": true,
+        "profileImageUrl": "https://example.com/noah_taylor.jpg",
+        "cars": [
+            {
+                "id": 9,
+                "name": "Ford F-150"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Mia Garcia",
+        "age": 34,
+        "isVerified": false,
+        "profileImageUrl": "https://example.com/mia_garcia.jpg",
+        "cars": [
+            {
+                "id": 10,
+                "name": "Chevrolet Corvette"
+            }
+        ]
+    }
+]
