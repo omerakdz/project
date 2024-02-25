@@ -6,7 +6,7 @@
         "age": 3,
         "isActive": true,
         "birthdate": "2019-08-15",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Toyota-Camri.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Toyota-Camri.jpg?raw=true",
         "status": "available",
         "features": ["Bluetooth connectivity", "Backup camera", "Keyless entry"],
         "model": {
@@ -23,7 +23,7 @@
         "age": 2,
         "isActive": false,
         "birthdate": "2020-05-20",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Honda-Civic.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Honda-Civic.jpg?raw=true",
         "status": "sold",
         "features": ["Apple CarPlay", "Android Auto", "Lane departure warning"],
         "model": {
@@ -40,7 +40,7 @@
         "age": 5,
         "isActive": true,
         "birthdate": "2017-11-10",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Ford-Mustang.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Ford-Mustang.jpg?raw=true",
         "status": "available",
         "features": ["V8 engine", "Leather seats", "LED headlights"],
         "model": {
@@ -57,7 +57,7 @@
         "age": 1,
         "isActive": true,
         "birthdate": "2023-01-12",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Tesla-Model-3.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Tesla-Model-3.jpg?raw=true",
         "status": "available",
         "features": ["Autopilot", "Full self-driving capability", "Dual motor all-wheel drive"],
         "model": {
@@ -74,7 +74,7 @@
         "age": 2,
         "isActive": true,
         "birthdate": "2022-03-28",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/BMW-3-Series.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/BMW-3-Series.jpg?raw=true",
         "status": "available",
         "features": ["Head-up display", "Wireless charging", "Gesture control"],
         "model": {
@@ -91,7 +91,7 @@
         "age": 4,
         "isActive": false,
         "birthdate": "2018-07-20",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Mercedes-Benz%20E-Class.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Mercedes-Benz%20E-Class.jpg?raw=true",
         "status": "sold",
         "features": ["MBUX infotainment system", "Active brake assist", "Evasive steering assist"],
         "model": {
@@ -108,7 +108,7 @@
         "age": 3,
         "isActive": true,
         "birthdate": "2019-11-05",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Audi-Q5.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Audi-Q5.jpg?raw=true",
         "status": "available",
         "features": ["Virtual cockpit", "Bang & Olufsen sound system", "Quattro all-wheel drive"],
         "model": {
@@ -125,7 +125,7 @@
         "age": 5,
         "isActive": true,
         "birthdate": "2017-09-15",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Toyota-Prius.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Toyota-Prius.jpg?raw=true",
         "status": "available",
         "features": ["Hybrid Synergy Drive", "Toyota Safety Sense", "Smart Key System"],
         "model": {
@@ -142,7 +142,7 @@
         "age": 2,
         "isActive": true,
         "birthdate": "2022-02-10",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Ford-F-150.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Ford-F-150.jpg?raw=true",
         "status": "available",
         "features": ["Pro Trailer Backup Assist", "Sync 4 infotainment system", "Ford Co-Pilot360"],
         "model": {
@@ -159,7 +159,7 @@
         "age": 1,
         "isActive": true,
         "birthdate": "2023-06-30",
-        "imageUrl": "https://github.com/omerakdz/project-webont/blob/main/project-web/images/Chevrolet-Corvette.jpg",
+        "imageUrl": "https://github.com/omerakdz/project/blob/main/images/Chevrolet-Corvette.jpg?raw=true",
         "status": "available",
         "features": ["LT2 V8 engine", "Magnetic Ride Control", "Performance Data Recorder"],
         "model": {
